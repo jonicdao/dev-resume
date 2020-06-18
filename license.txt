@@ -1,3 +1,5 @@
+deployed on Netlify as dev.josenicdao.com
+
 Bootstrap 4 Portfolio Theme for Developers
 
 Theme name:
